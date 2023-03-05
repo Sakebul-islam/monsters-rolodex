@@ -1,0 +1,24 @@
+.card-container img {
+  /* border: 10px; */
+  /* background: #ff6644; */
+  /* background-image: linear-gradient(
+    90deg,
+    #4edcb7,
+    #83ea9e,
+    #32b9cd,
+    #32b9cd,
+    #4edcb7
+  ); */
+  min-width: 100%;
+  background-color: #7d86bb;
+}
+.card-content {
+  padding: 25px 0;
+}
+.card-content h2 {
+  display: block;
+  padding: 0 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
